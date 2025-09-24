@@ -1,2 +1,2 @@
 # signalsandsystemsanalysis
-Exercises for MATLAB/Octave for a subject of my Master's degree.
+MATLAB/Octave scripts for a subject of my Master's degree.
